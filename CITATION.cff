@@ -4,8 +4,8 @@ title: "AI-Based Dynamic Questionnaire System"
 abstract: >-
   A web-based system that assembles a dynamic, culturally aware questionnaire
   for each respondent in real time. It infers a cultural orientation from a short
-  set of opening questions, draws and adapts the wording of culturally matched
-  items from curated banks derived from validated scales (stress: PSS, DASS-21;
+  set of opening questions, draws culturally matched items
+  from curated banks derived from validated scales (stress: PSS, DASS-21;
   social support: MSPSS), and monitors response-time behaviour to detect fatigue
   and control questionnaire length. Case study: perceived stress and social
   support in multicultural environments.
@@ -13,10 +13,6 @@ type: software
 authors:
   - given-names: Hosein
     family-names: Kargar
-    # affiliation: "ADD AFFILIATION"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
-  # Add the supervisor / co-author here (given-names, family-names) if they
-  # should appear on the software record.
 keywords:
   - dynamic questionnaire
   - cultural adaptation
@@ -27,7 +23,7 @@ keywords:
   - social support
 license: MIT
 version: "1.0.0"
-date-released: "2026-01-01"
+date-released: "2026-10-08"
 repository-code: "https://github.com/hoseinkargar/ai-dynamic-questionnaire"
 # After archiving a release on Zenodo, paste the DOI it issues here:
 # doi: "10.5281/zenodo.XXXXXXX"
