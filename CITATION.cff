@@ -25,5 +25,4 @@ license: MIT
 version: "1.0.0"
 date-released: "2026-10-08"
 repository-code: "https://github.com/hoseinkargar/ai-dynamic-questionnaire"
-# After archiving a release on Zenodo, paste the DOI it issues here:
-# doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.23242963"
